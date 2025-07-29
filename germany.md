@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "GERMAN"
-permalink: /tank-bible-reloaded/german
+permalink: /germany
 ---
 
 Bonjour from germany
